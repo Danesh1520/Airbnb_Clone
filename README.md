@@ -26,8 +26,8 @@ This project aims to recreate the basic functionality of Airbnb's booking platfo
 
 ## Technologies Used
 
-- **HTML5**: Markup language used for structuring and presenting content on the web.
-- **CSS3**: Style sheet language used for describing the presentation of a document written in HTML.
+- **HTML**: Markup language used for structuring and presenting content on the web.
+- **CSS**: Style sheet language used for describing the presentation of a document written in HTML.
 
 ## Setup and Installation
 
@@ -41,9 +41,9 @@ This project aims to recreate the basic functionality of Airbnb's booking platfo
     cd airbnb-clone
     ```
 
-3. Open `index3.html` in your web browser to view the project:
+3. Open `airbnb.html` in your web browser to view the project:
     ```bash
-    open index3.html
+    open airbnb.html
     ```
 
 ## Usage
@@ -72,7 +72,3 @@ Contributions are welcome! Please follow these steps to contribute:
     git push origin feature-branch
     ```
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License.
